@@ -1,6 +1,7 @@
 import sys
 
-import patterns, views
+import patterns
+import views
 from cli import get_command_line_args
 
 
