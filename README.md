@@ -1,0 +1,2 @@
+# autodiffomata
+Modern cell automata
